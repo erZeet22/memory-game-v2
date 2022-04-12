@@ -1,2 +1,2 @@
 # Work in progress ...
-## [ I WANT TO PLAY](https://erzeet22.github.io/memory-game/)
+## [ I WANT TO PLAY](https://erzeet22.github.io/memory-game-v2/)
