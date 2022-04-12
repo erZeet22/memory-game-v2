@@ -1,1 +1,2 @@
-# memory-game-v2
+# Work in progress ...
+## [ I WANT TO PLAY](https://erzeet22.github.io/memory-game/)
