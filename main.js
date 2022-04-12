@@ -3,6 +3,7 @@ var oneVisible = false;
 var cardnr;
 var licznik = 0;
 var blokada = false;
+var koniec = 6;
 
 function odkryj(nr) {
     var opacityValue = $("#c" + nr).css('opacity');
@@ -29,7 +30,7 @@ function odkryj(nr) {
             }
             oneVisible = false;
             licznik++;
-            $(".score").html("Licznik kliknięć: " + licznik)
+            $(".score").html("Licznik kliknięć: " + licznik);
         }
     }
 
